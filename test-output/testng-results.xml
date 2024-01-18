@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Launching Browser]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on gender button]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on Health plan next button]]>
+    </line>
+    <line>
+      <![CDATA[Handling age drop down]]>
+    </line>
+    <line>
+      <![CDATA[Reading Data from Excel sheet]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on member details next button]]>
+    </line>
+    <line>
+      <![CDATA[Entering pin code]]>
+    </line>
+    <line>
+      <![CDATA[Reading Data from Excel sheet]]>
+    </line>
+    <line>
+      <![CDATA[Entering Mobile number]]>
+    </line>
+    <line>
+      <![CDATA[Reading Data from Excel sheet]]>
+    </line>
+    <line>
+      <![CDATA[clicking continue button]]>
+    </line>
+    <line>
+      <![CDATA[Tc validatetestplansfromTextAndBanners exicution started]]>
+    </line>
+    <line>
+      <![CDATA[fetching number of details from text]]>
+    </line>
+    <line>
+      <![CDATA[fetching number of details from banner]]>
+    </line>
+    <line>
+      <![CDATA[Tc passed]]>
+    </line>
+    <line>
+      <![CDATA[Taking ScreenShot]]>
+    </line>
+    <line>
+      <![CDATA[Saved Screenshot at D:\Automation_Images\ScreenShots\coverFoxCoverFox_Tc1_2024.01.17.13.21.36.png]]>
+    </line>
+    <line>
+      <![CDATA[Tc validatetestplansfromTextAndBanners exicution Successful]]>
+    </line>
+    <line>
+      <![CDATA[Closing coverfox Browser]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-01-17T13:20:56 IST" name="Default suite" finished-at="2024-01-17T13:21:44 IST" duration-ms="47470">
+    <groups>
+    </groups>
+    <test started-at="2024-01-17T13:20:56 IST" name="Default test" finished-at="2024-01-17T13:21:44 IST" duration-ms="47470">
+      <class name="CoverFox_Test.CoverFox_Testing_SearchResult_for_HealthCare_PoliciesWithTestNg">
+        <test-method is-config="true" signature="launchCoverFoxBrowser()[pri:0, instance:CoverFox_Test.CoverFox_Testing_SearchResult_for_HealthCare_PoliciesWithTestNg@5b7a5baa]" started-at="2024-01-17T13:20:56 IST" name="launchCoverFoxBrowser" finished-at="2024-01-17T13:21:09 IST" duration-ms="12353" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Launching Browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- launchCoverFoxBrowser -->
+        <test-method is-config="true" signature="enterMemberDetails()[pri:0, instance:CoverFox_Test.CoverFox_Testing_SearchResult_for_HealthCare_PoliciesWithTestNg@5b7a5baa]" started-at="2024-01-17T13:21:09 IST" name="enterMemberDetails" finished-at="2024-01-17T13:21:18 IST" duration-ms="9072" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Clicking on gender button]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on Health plan next button]]>
+            </line>
+            <line>
+              <![CDATA[Handling age drop down]]>
+            </line>
+            <line>
+              <![CDATA[Reading Data from Excel sheet]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on member details next button]]>
+            </line>
+            <line>
+              <![CDATA[Entering pin code]]>
+            </line>
+            <line>
+              <![CDATA[Reading Data from Excel sheet]]>
+            </line>
+            <line>
+              <![CDATA[Entering Mobile number]]>
+            </line>
+            <line>
+              <![CDATA[Reading Data from Excel sheet]]>
+            </line>
+            <line>
+              <![CDATA[clicking continue button]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- enterMemberDetails -->
+        <test-method signature="validatetestplansfromTextAndBanners()[pri:0, instance:CoverFox_Test.CoverFox_Testing_SearchResult_for_HealthCare_PoliciesWithTestNg@5b7a5baa]" started-at="2024-01-17T13:21:18 IST" name="validatetestplansfromTextAndBanners" finished-at="2024-01-17T13:21:36 IST" duration-ms="18702" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Tc validatetestplansfromTextAndBanners exicution started]]>
+            </line>
+            <line>
+              <![CDATA[fetching number of details from text]]>
+            </line>
+            <line>
+              <![CDATA[fetching number of details from banner]]>
+            </line>
+            <line>
+              <![CDATA[Tc passed]]>
+            </line>
+            <line>
+              <![CDATA[Taking ScreenShot]]>
+            </line>
+            <line>
+              <![CDATA[Saved Screenshot at D:\Automation_Images\ScreenShots\coverFoxCoverFox_Tc1_2024.01.17.13.21.36.png]]>
+            </line>
+            <line>
+              <![CDATA[Tc validatetestplansfromTextAndBanners exicution Successful]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validatetestplansfromTextAndBanners -->
+        <test-method is-config="true" signature="closeCoverFoxBrowsers()[pri:0, instance:CoverFox_Test.CoverFox_Testing_SearchResult_for_HealthCare_PoliciesWithTestNg@5b7a5baa]" started-at="2024-01-17T13:21:36 IST" name="closeCoverFoxBrowsers" finished-at="2024-01-17T13:21:44 IST" duration-ms="7242" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Closing coverfox Browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closeCoverFoxBrowsers -->
+      </class> <!-- CoverFox_Test.CoverFox_Testing_SearchResult_for_HealthCare_PoliciesWithTestNg -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

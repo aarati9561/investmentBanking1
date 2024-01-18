@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Launching Browser]]>
+    </line>
+    <line>
+      <![CDATA[Click Female button]]>
+    </line>
+    <line>
+      <![CDATA[Click On Next button from health plan page]]>
+    </line>
+    <line>
+      <![CDATA[Handlin age drop down from Member details]]>
+    </line>
+    <line>
+      <![CDATA[Reading Data from Excel sheet]]>
+    </line>
+    <line>
+      <![CDATA[Click Next button of age drop down]]>
+    </line>
+    <line>
+      <![CDATA[Sending pincode to textBox]]>
+    </line>
+    <line>
+      <![CDATA[Reading Data from Excel sheet]]>
+    </line>
+    <line>
+      <![CDATA[Click continue button]]>
+    </line>
+    <line>
+      <![CDATA[Vaalidating error message displayed or not]]>
+    </line>
+    <line>
+      <![CDATA[Validating expected and actual error message ]]>
+    </line>
+    <line>
+      <![CDATA[Actual Message is Please enter a valid mobile no.]]>
+    </line>
+    <line>
+      <![CDATA[Closing coverfox Browser]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-01-17T23:46:26 IST" name="Suite" finished-at="2024-01-17T23:46:55 IST" duration-ms="28133">
+    <groups>
+    </groups>
+    <test started-at="2024-01-17T23:46:26 IST" name="TestNgAllClasses" finished-at="2024-01-17T23:46:55 IST" duration-ms="28133">
+      <class name="CoverFox_Test.ValidatingErrorMessageOnAddressDetailsPage">
+        <test-method is-config="true" signature="beforeClassExicutions1()[pri:0, instance:CoverFox_Test.ValidatingErrorMessageOnAddressDetailsPage@5fdcaa40]" started-at="2024-01-17T23:46:27 IST" name="beforeClassExicutions1" finished-at="2024-01-17T23:46:36 IST" duration-ms="9075" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Launching Browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeClassExicutions1 -->
+        <test-method is-config="true" signature="beforeMethodExicutions()[pri:0, instance:CoverFox_Test.ValidatingErrorMessageOnAddressDetailsPage@5fdcaa40]" started-at="2024-01-17T23:46:36 IST" name="beforeMethodExicutions" finished-at="2024-01-17T23:46:43 IST" duration-ms="7226" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Click Female button]]>
+            </line>
+            <line>
+              <![CDATA[Click On Next button from health plan page]]>
+            </line>
+            <line>
+              <![CDATA[Handlin age drop down from Member details]]>
+            </line>
+            <line>
+              <![CDATA[Reading Data from Excel sheet]]>
+            </line>
+            <line>
+              <![CDATA[Click Next button of age drop down]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethodExicutions -->
+        <test-method signature="validateResultvithoutSendingData()[pri:0, instance:CoverFox_Test.ValidatingErrorMessageOnAddressDetailsPage@5fdcaa40]" started-at="2024-01-17T23:46:43 IST" name="validateResultvithoutSendingData" finished-at="2024-01-17T23:46:47 IST" duration-ms="4485" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Sending pincode to textBox]]>
+            </line>
+            <line>
+              <![CDATA[Reading Data from Excel sheet]]>
+            </line>
+            <line>
+              <![CDATA[Click continue button]]>
+            </line>
+            <line>
+              <![CDATA[Vaalidating error message displayed or not]]>
+            </line>
+            <line>
+              <![CDATA[Validating expected and actual error message ]]>
+            </line>
+            <line>
+              <![CDATA[Actual Message is Please enter a valid mobile no.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validateResultvithoutSendingData -->
+        <test-method is-config="true" signature="closeCoverFoxBrowsers()[pri:0, instance:CoverFox_Test.ValidatingErrorMessageOnAddressDetailsPage@5fdcaa40]" started-at="2024-01-17T23:46:47 IST" name="closeCoverFoxBrowsers" finished-at="2024-01-17T23:46:55 IST" duration-ms="7265" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Closing coverfox Browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closeCoverFoxBrowsers -->
+      </class> <!-- CoverFox_Test.ValidatingErrorMessageOnAddressDetailsPage -->
+    </test> <!-- TestNgAllClasses -->
+  </suite> <!-- Suite -->
+</testng-results>

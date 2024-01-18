@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT" verbose="0">
+  <listeners>
+    <listener class-name="listenersPackage.ExtentReporterNG"/>
+  </listeners>
+  <test thread-count="5" name="TestNgAllClasses(failed)" verbose="0">
+    <classes>
+      <class name="CoverFox_Test.ValidatingErrorMessageOnAddressDetailsPage">
+        <methods>
+          <include name="closeCoverFoxBrowsers"/>
+          <include name="beforeClassExicutions1"/>
+          <include name="validateResultvithoutSendingData"/>
+          <include name="beforeMethodExicutions"/>
+        </methods>
+      </class> <!-- CoverFox_Test.ValidatingErrorMessageOnAddressDetailsPage -->
+    </classes>
+  </test> <!-- TestNgAllClasses(failed) -->
+</suite> <!-- Failed suite [Suite] -->
