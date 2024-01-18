@@ -27,7 +27,7 @@ public class ValidatingErrorMessageOnAddressDetailsPage extends BaseClass
 
 {
 	
-	public static Logger logger;
+	public static org.apache.log4j.Logger logger;
 	 CoverFox_HomePage hpage;
 	 CoverFox_HealthPlanPage hplanPage;
 	 CoverFox_MemberDetailsPage mdetailspage;
@@ -37,8 +37,8 @@ public class ValidatingErrorMessageOnAddressDetailsPage extends BaseClass
   @BeforeClass
   public void beforeClassExicutions1() throws InterruptedException
   {
-	logger=Logger.getLogger("investment_banking1");
-	PropertyConfigurator.configure("investment_bankingLog4J.properties");
+	  logger=logger.getLogger("investment_banking1");
+	  PropertyConfigurator.configure("log4j.properties");
 	  Thread.sleep(1000);
 	  
 	  logger.info("launching ");
@@ -100,7 +100,7 @@ public class ValidatingErrorMessageOnAddressDetailsPage extends BaseClass
 	 String act = adDetailsPage.actualResult();
 	 String exp = adDetailsPage.ExpectedResult();
 	 
-	 logger.warning("Error message displayed is matching. Tc passed");
+	 logger.info("Error message displayed is matching. Tc passed");
 	Assert.assertEquals(act, exp,"Error message displayed is not matching. Tc failed ");
 }
   

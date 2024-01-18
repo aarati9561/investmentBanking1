@@ -41,19 +41,19 @@
       <![CDATA[Closing coverfox Browser]]>
     </line>
   </reporter-output>
-  <suite started-at="2024-01-17T23:46:26 IST" name="Suite" finished-at="2024-01-17T23:46:55 IST" duration-ms="28133">
+  <suite started-at="2024-01-18T23:06:58 IST" name="Suite" finished-at="2024-01-18T23:07:27 IST" duration-ms="28835">
     <groups>
     </groups>
-    <test started-at="2024-01-17T23:46:26 IST" name="TestNgAllClasses" finished-at="2024-01-17T23:46:55 IST" duration-ms="28133">
+    <test started-at="2024-01-18T23:06:58 IST" name="TestNgAllClasses" finished-at="2024-01-18T23:07:27 IST" duration-ms="28835">
       <class name="CoverFox_Test.ValidatingErrorMessageOnAddressDetailsPage">
-        <test-method is-config="true" signature="beforeClassExicutions1()[pri:0, instance:CoverFox_Test.ValidatingErrorMessageOnAddressDetailsPage@5fdcaa40]" started-at="2024-01-17T23:46:27 IST" name="beforeClassExicutions1" finished-at="2024-01-17T23:46:36 IST" duration-ms="9075" status="PASS">
+        <test-method is-config="true" signature="beforeClassExicutions1()[pri:0, instance:CoverFox_Test.ValidatingErrorMessageOnAddressDetailsPage@5fdcaa40]" started-at="2024-01-18T23:06:58 IST" name="beforeClassExicutions1" finished-at="2024-01-18T23:07:07 IST" duration-ms="9163" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Launching Browser]]>
             </line>
           </reporter-output>
         </test-method> <!-- beforeClassExicutions1 -->
-        <test-method is-config="true" signature="beforeMethodExicutions()[pri:0, instance:CoverFox_Test.ValidatingErrorMessageOnAddressDetailsPage@5fdcaa40]" started-at="2024-01-17T23:46:36 IST" name="beforeMethodExicutions" finished-at="2024-01-17T23:46:43 IST" duration-ms="7226" status="PASS">
+        <test-method is-config="true" signature="beforeMethodExicutions()[pri:0, instance:CoverFox_Test.ValidatingErrorMessageOnAddressDetailsPage@5fdcaa40]" started-at="2024-01-18T23:07:07 IST" name="beforeMethodExicutions" finished-at="2024-01-18T23:07:15 IST" duration-ms="7535" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Click Female button]]>
@@ -72,7 +72,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- beforeMethodExicutions -->
-        <test-method signature="validateResultvithoutSendingData()[pri:0, instance:CoverFox_Test.ValidatingErrorMessageOnAddressDetailsPage@5fdcaa40]" started-at="2024-01-17T23:46:43 IST" name="validateResultvithoutSendingData" finished-at="2024-01-17T23:46:47 IST" duration-ms="4485" status="PASS">
+        <test-method signature="validateResultvithoutSendingData()[pri:0, instance:CoverFox_Test.ValidatingErrorMessageOnAddressDetailsPage@5fdcaa40]" started-at="2024-01-18T23:07:15 IST" name="validateResultvithoutSendingData" finished-at="2024-01-18T23:07:19 IST" duration-ms="4738" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Sending pincode to textBox]]>
@@ -94,7 +94,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- validateResultvithoutSendingData -->
-        <test-method is-config="true" signature="closeCoverFoxBrowsers()[pri:0, instance:CoverFox_Test.ValidatingErrorMessageOnAddressDetailsPage@5fdcaa40]" started-at="2024-01-17T23:46:47 IST" name="closeCoverFoxBrowsers" finished-at="2024-01-17T23:46:55 IST" duration-ms="7265" status="PASS">
+        <test-method is-config="true" signature="closeCoverFoxBrowsers()[pri:0, instance:CoverFox_Test.ValidatingErrorMessageOnAddressDetailsPage@5fdcaa40]" started-at="2024-01-18T23:07:19 IST" name="closeCoverFoxBrowsers" finished-at="2024-01-18T23:07:27 IST" duration-ms="7333" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Closing coverfox Browser]]>

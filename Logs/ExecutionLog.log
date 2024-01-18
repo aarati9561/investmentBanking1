@@ -1,2 +1,8 @@
 		2024-01-17 13:21:24,298 - mylogger -INFO - fetching number of details from text
 2024-01-17 13:21:30,402 - mylogger -INFO - fetching number of details from banner
+2024-01-18 23:06:59,703 - investment_banking1 -INFO - launching 
+2024-01-18 23:07:16,254 - investment_banking1 -INFO - Sending pincode to textBox
+2024-01-18 23:07:16,556 - investment_banking1 -INFO - Click continue button
+2024-01-18 23:07:19,712 - investment_banking1 -INFO - Vaalidating error message displayed or not
+2024-01-18 23:07:19,890 - investment_banking1 -INFO - Validating expected and actual error message
+2024-01-18 23:07:19,977 - investment_banking1 -INFO - Error message displayed is matching. Tc passed
